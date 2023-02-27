@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayet Davy</h1>
-<h3 align="center">An alumni of Le Wagon</h3>
+<h3 align="center">An alumni of DSTI</h3>
 
 - 🌱 I’m currently learning **Python, Jupyter, tensorflow, keras, scikit_learn, sqlite, docker, gcp, heroku, git, fastAPI**
 
